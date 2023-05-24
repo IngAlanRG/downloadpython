@@ -18,7 +18,7 @@ def descargar_video(url):
         print("Error al descargar el video:", str(e))
 
 # Aquí coloca la url del video de YouTube
-url = "https://www.youtube.com/watch?v=gwmWEr67hzQ&list=RDQDSuw9IyBwA&index=21"
+url = "https://www.youtube.com/watch?v=GH4oTnyAFBk"
 descargar_video(url)
 
 #debes instalar python 
